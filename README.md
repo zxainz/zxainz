@@ -1,51 +1,73 @@
 <div align="center">
 
-```text
+<pre>
   ███████╗██╗  ██╗ █████╗ ██╗███╗   ██╗███╗   ██╗███████╗
   ╚══███╔╝╚██╗██╔╝██╔══██╗██║████╗  ██║████╗  ██║╚══███╔╝
     ███╔╝  ╚███╔╝ ███████║██║██╔██╗ ██║██╔██╗ ██║  ███╔╝ 
    ███╔╝   ██╔██╗ ██╔══██║██║██║╚██╗██║██║╚██╗██║ ███╔╝  
   ███████╗██╔╝ ██╗██║  ██║██║██║ ╚████║██║ ╚████║███████╗
   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝
+</pre>
 
-[>] GET /root/zxainz HTTP/1.1
-Penetration Tester & Application Security Engineer
-Plaintext
-+-------------------------------------------------------------------+
-|  [STATUS]: ONLINE          [TYPE]: OFFENSIVE SEC & APPSEC         |
-|  [LOCATION]: PUNJAB, PK    [FOCUS]: WEB/API SECURITY & REMEDIATION|
-+-------------------------------------------------------------------+
-┌──[ root@zxainz ]─[~]
-└─$ cat summary.txt
-Offensive security specialist focused on Web/API security testing, vulnerability assessment, and developer remediation guidance.
+<h2><code>[>] GET /root/zxainz HTTP/1.1</code></h2>
+<h3><code>Penetration Tester &amp; Application Security Engineer</code></h3>
 
-┌──[ root@zxainz ]─[~]
-└─$ ls -la /toolkit/
-Plaintext
+<pre>
++-------------------------------------------------------------------+
+|  [STATUS]: ONLINE          [TYPE]: OFFENSIVE SEC &amp; APPSEC         |
+|  [LOCATION]: PUNJAB, PK    [FOCUS]: WEB/API SECURITY &amp; REMEDIATION|
++-------------------------------------------------------------------+
+</pre>
+
+</div>
+
+<hr>
+
+<div align="left">
+
+<h3><code>┌──[ root@zxainz ]─[~]</code><br><code>└─$ cat summary.txt</code></h3>
+
+<p>Offensive security specialist focused on Web/API security testing, vulnerability assessment, and developer remediation guidance.</p>
+
+<hr>
+
+<h3><code>┌──[ root@zxainz ]─[~]</code><br><code>└─$ ls -la /toolkit/</code></h3>
+
+<pre>
 ├── 🛡️  OFFENSIVE SECURITY
-│   ├── Web & API Penetration Testing
+│   ├── Web &amp; API Penetration Testing
 │   ├── OWASP Top 10 Exploitation
-│   ├── Privilege Escalation (Linux & Windows)
-│   └── Network Scanning & Enumeration
+│   ├── Privilege Escalation (Linux &amp; Windows)
+│   └── Network Scanning &amp; Enumeration
 │
 ├── 🛠️  SECURITY ARSENAL
-│   ├── Burp Suite & OWASP ZAP
-│   ├── Nmap, Metasploit, & Gobuster
-│   └── Nuclei, Shodan, & Amass
+│   ├── Burp Suite &amp; OWASP ZAP
+│   ├── Nmap, Metasploit, &amp; Gobuster
+│   └── Nuclei, Shodan, &amp; Amass
 │
-├── 💻 LANGUAGES & SCRIPTING
+├── 💻 LANGUAGES &amp; SCRIPTING
 │   └── Bash, Python, SQL, JavaScript
 │
-└── ⚡ PLATFORMS & ENVIRONMENTS
+└── ⚡ PLATFORMS &amp; ENVIRONMENTS
     └── Linux (Kali / Parrot OS), Docker, Supabase, Cloud Configurations
-┌──[ root@zxainz ]─[~]
-└─$ cat /var/log/featured_projects.log
-[Bash Port Scanner] — Lightweight socket scanner utilizing /dev/tcp for environment enumeration.
+</pre>
 
-[Windows Privilege Escalation Guide] — Step-by-step walkthrough detailing Windows service hijacking techniques.
+<hr>
 
-┌──[ root@zxainz ]─[~]
-└─$ cat /etc/contact
-LinkedIn: linkedin.com/in/zxain
+<h3><code>┌──[ root@zxainz ]─[~]</code><br><code>└─$ cat /var/log/featured_projects.log</code></h3>
 
-Medium: medium.com/@zainzsite
+<ul>
+  <li><b><a href="https://github.com/zxainz/port_scanning">Bash Port Scanner</a></b> — Lightweight socket scanner utilizing <code>/dev/tcp</code> for environment enumeration.</li>
+  <li><b><a href="https://medium.com/@zainzsite">Windows Privilege Escalation Guide</a></b> — Step-by-step walkthrough detailing Windows service hijacking techniques.</li>
+</ul>
+
+<hr>
+
+<h3><code>┌──[ root@zxainz ]─[~]</code><br><code>└─$ cat /etc/contact</code></h3>
+
+<ul>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/zxain/">linkedin.com/in/zxain</a></li>
+  <li><b>Medium:</b> <a href="https://medium.com/@zainzsite">medium.com/@zainzsite</a></li>
+</ul>
+
+</div>
