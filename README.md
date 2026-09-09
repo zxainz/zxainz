@@ -1,15 +1,9 @@
 <div align="center">
 
-# `GET /root/zxainz HTTP/1.1`
-### `> Penetration Tester & Application Security Engineer`
-
 ![Cyber Matrix Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:0d1117&height=200&section=header&text=OFFENSIVE%20SECURITY%20%7C%20APPSEC&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Web%20%26%20API%20Penetration%20Testing%20%7C%20Vulnerability%20Assessment&descAlignY=62&descAlign=50)
 
-[SYSTEM STATUS: ONLINE]
-[LOCATION: PUNJAB, PAKISTAN]
-[CURRENT FOCUS: WEB/API SECURITY & DEV REMEDIATION]
-
----
+# Hi, I'm Zain 👋
+### Penetration Tester & Application Security Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zxain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,22 +14,22 @@
 
 ---
 
-### `root@zxainz:~# cat summary.txt`
+### 🛡️ Summary
 
 Offensive security specialist focused on Web/API security testing, vulnerability assessment, and developer remediation guidance.
 
 ---
 
-### `root@zxainz:~# ls -la /toolkit/`
+### ⚙️ Technical Toolkit
 
-- **Offensive Security:** Web & API Pentesting, OWASP Top 10, Privilege Escalation, Network Scanning
+- **Offensive Security:** Web/API Pentesting, OWASP Top 10, Privilege Escalation, Network Scanning
 - **Tools:** Burp Suite, OWASP ZAP, Nmap, Metasploit, Nuclei, Gobuster
 - **Languages & Scripting:** Bash, Python, SQL, JavaScript
 - **Platforms & Environments:** Linux (Kali / Parrot), Supabase, Docker, Cloud Configurations
 
 ---
 
-### `root@zxainz:~# cat /var/log/featured.log`
+### 📌 Featured Repositories & Write-ups
 
 - **[Bash Port Scanner](https://github.com/zxainz/port_scanning):** Lightweight socket scanner utilizing `/dev/tcp` for environment enumeration.
 - **[Medium Walkthroughs](https://medium.com/@zainzsite):** Technical analysis on Windows privilege escalation and web application security.
@@ -44,7 +38,7 @@ Offensive security specialist focused on Web/API security testing, vulnerability
 
 <div align="center">
 
-### `root@zxainz:~# ./get_stats.sh`
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zxainz&show_icons=true&theme=matrix&title_color=00ff66&text_color=ffffff&bg_color=0d1117&border_color=00ff66&hide_border=false" alt="Zain's GitHub Stats" width="48%" />
